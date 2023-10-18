@@ -1,10 +1,7 @@
 {
     "recommendations": [
-      "ms-dotnettools.csharp",
-      "formulahendry.dotnet-test-explorer",
-      "ms-vscode.vscode-node-azure-pack",
-      "ms-kubernetes-tools.vscode-kubernetes-tools",
-      "redhat.vscode-yaml",
-      "ms-azuretools.azure-dev"
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
     ]
 }
